@@ -1,0 +1,32 @@
+# Blender 3.5.1 MTL File: 'None'
+# www.blender.org
+
+newmtl body
+Ns 111.764725
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd New folder (4)/source/GameCube - Star Fox Assault - Arwing/Assault Arwing/body.png
+
+newmtl cockpit
+Ns 111.764725
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd New folder (4)/source/GameCube - Star Fox Assault - Arwing/Assault Arwing/cockpit.png
+map_d New folder (4)/source/GameCube - Star Fox Assault - Arwing/Assault Arwing/cockpit.png
+
+newmtl logo
+Ns 111.764725
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd New folder (4)/source/GameCube - Star Fox Assault - Arwing/Assault Arwing/logo.png
+map_d New folder (4)/source/GameCube - Star Fox Assault - Arwing/Assault Arwing/logo.png
